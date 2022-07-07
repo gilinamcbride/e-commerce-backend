@@ -45,7 +45,7 @@ This application is the back end for an e-commerce site using Express.js API and
 
 ## Application
 
-[Link to video walkthrough](INSERT WALKTHROUGH VID)
+[Link to video walkthrough](https://drive.google.com/file/d/1eBDYQPnt2w41vAmReEK7hCtzm8-RLEdy/view?usp=sharing)
 
 ## Questions?
 
