@@ -17,7 +17,7 @@
 
 ## Description
 
-This application is the back end for an e-commerce site using Express.js API and Sequelize to interact with a MySQL database.
+This application is the back end for an e-commerce site using Express.js API and Sequelize to interact with a MySQL database, shown through a video walkthrough using Insomnia.
 
 ## Usage
 
@@ -44,6 +44,10 @@ This application is the back end for an e-commerce site using Express.js API and
 - THEN I am able to successfully create, update, and delete data in my database
 
 ## Application
+
+Insomnia Screenshot Using Product Route:
+
+![screenshot](./assets/images/screenshot.png)
 
 [Link to video walkthrough](https://drive.google.com/file/d/1eBDYQPnt2w41vAmReEK7hCtzm8-RLEdy/view?usp=sharing)
 
